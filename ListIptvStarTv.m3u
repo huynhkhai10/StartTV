@@ -407,8 +407,9 @@ https://live-zlr4.tv360.vn/live_viettel/cn.smil/manifest.mpd?manifestfilter=vide
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|328174dbb4d43dbd97318417dcdae796:65794a6863334e6c64456c6b496a6f6962476c325a563932615756306447567358324e75496e303d
 https://live-zlr4.tv360.vn/live_viettel/cn.smil/manifest.mpd?manifestfilter=video_bitrate:1-10767168&uid=167107618
 
-#EXTINF:0 group-title="Test" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV",Test MPD
+#EXTINF:0 group-title="Test" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV",Test MPD CN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=328174dbb4d43dbd97318417dcdae796:65794a6863334e6c64456c6b496a6f6962476c325a563932615756306447567358324e75496e303d
 https://live-zlr4.tv360.vn/live_viettel/cn.smil/manifest.mpd?manifestfilter=video_bitrate:1-10767168&uid=167107618
