@@ -390,6 +390,13 @@ https://vtvgolive-liveh34.vtvdigital.vn/hls/VUNGTAUTV/03.m3u8
 https://vtvgolive-liveh34.vtvdigital.vn/hls/TRAVINHTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BLTV.png",Bạc Liêu HD
 https://vtvgolive-liveh12.vtvdigital.vn/hls/BACLIEUTV/03.m3u8
-
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
 https://vtvgolive-camau.vtvdigital.vn/kenhdp/camautv_720p.m3u8
+
+
+
+#EXTINF:0 group-title="Test" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV",Test
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= 328174dbb4d43dbd97318417dcdae796:AAAAXnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAD4IARIQMoF027TUPb2XMYQX3NrnliIoZXlKaGMzTmxkRWxrSWpvaWJHbDJaVjkyYVdWMGRHVnNYMk51SW4wPQ==
+https://live-zlr4.tv360.vn/live_viettel/cn.smil/manifest.mpd?manifestfilter=video_bitrate:1-10767168&uid=167107618
