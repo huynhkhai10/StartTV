@@ -257,7 +257,7 @@ https://vtvgolive-liveh12.vtvdigital.vn/hls/HANOI2TV/03.m3u8
 https://vtvgolive-liveh34.vtvdigital.vn/hls/BINHPHUOCTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BPTV2.png", Bình Phước 2 - HOME TV
 
-#EXTINF:-1 tvg-id="TH DA NANG "group-title="Địa Phương" tvg-logo="http://www.drt.danang.vn/images/drt1.png",Đà Nẵng 1
+#EXTINF:-1 tvg-id="TH DA NANG "group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/DaNangTV1_%282023%2C_b%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/200?cb=20231123085722&path-prefix=vi",Đà Nẵng 1
 https://vtvgolive-liveh12.vtvdigital.vn/hls/DANANGTV/03.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="http://www.drt.danang.vn/images/drt2.png",Đà Nẵng 2
 
