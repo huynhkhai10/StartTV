@@ -28,7 +28,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_40
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV5TAYNGUYEN.png" ,VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Việt Nam " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vietnam_Today_Logo.png/1280px-Vietnam_Today_Logo.pngt" ,Vietnam Today
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Việt Nam " tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VietnamToday.png" ,Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%201.jpg"   ,VTVCab 1 - Vie Giải Trí
