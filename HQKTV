@@ -31,20 +31,20 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Việt Nam " tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VietnamToday.png" ,Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:0 tvg-id="vtvcab1hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%201.jpg"   ,VTVCab 1 - Vie Giải Trí
+#EXTINF:0 tvg-id="vtvcab1hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONGIAITRI.png"   ,VTVCab 1 - Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnPhimViet.png"   ,VTVCab 2 - On Phim Việt
+#EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONPHIMVIET.png"   ,VTVCab 2 - On Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
 #EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports.png"     ,VTVCab 3 - OnSports SD
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports.png"     ,VTVCab 3 - OnSports HD
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab4hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%204.png"   ,VTVCab 4 - On Movies
+#EXTINF:0 tvg-id="vtvcab4hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONMOVIE.png"   ,VTVCab 4 - On Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:0 tvg-id="vtvcab5hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%205.png"   ,VTVCab 5 - OnE Channel
+#EXTINF:0 tvg-id="vtvcab5hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONECHANNEL.png"   ,VTVCab 5 - OnE Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:0 tvg-id="vtvcab6hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports+.png"    ,VTVCab 6 - OnSports+
@@ -52,44 +52,44 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:0 tvg-id="vtvcab7hd"group-title="VTVCab" tvg-logo="",VTVCab 7 - OnO2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:0 tvg-id="vtvcab8hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%208.jpg"   ,VTVCab 8 - Bibi
+#EXTINF:0 tvg-id="vtvcab8hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONBIBI.png"   ,VTVCab 8 - Bibi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:0 tvg-id="vtvcab9hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%209.png"   ,VTVCab 9 - Info TV
+#EXTINF:0 tvg-id="vtvcab9hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONINFO.png"   ,VTVCab 9 - Info TV
 
-#EXTINF:0 tvg-id="vtvcab10hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnCine.png"      ,VTVCab 10 - OnCine
+#EXTINF:0 tvg-id="vtvcab10hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONCINE.png"      ,VTVCab 10 - OnCine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:0 tvg-id="vtvcab12hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2012.png" ,VTVCab 12 - StyleTV
+#EXTINF:0 tvg-id="vtvcab12hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONSTYLE.png" ,VTVCab 12 - StyleTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:0 tvg-id="vtvcab13hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2013.png" ,VTVcab 13 - VTV Hyundai Home Shopping
 #https://github.com
 #EXTINF:0 tvg-id="vtvcab14hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2014.png"  ,VTVCab 14 - LotteDatViet
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
-#EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2015.png" ,VTVCab 15 - M Channel
+#EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONMUSIC.png" ,VTVCab 15 - M Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnFootBall.png"  ,VTVCab 16 - OnFoolBall SD
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnFootBall.png"  ,VTVCab 16 - OnFoolBall HD
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab17hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2017.png" ,VTVCab 17 - OnTrendingTV
+#EXTINF:0 tvg-id="vtvcab17hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONTRENDINGTV.png" ,VTVCab 17 - OnTrendingTV
 https://ec05-pop3-hht.tv360.vn/bpk-token/apnost2eatwe6d75mdfqfwxjj4b5v2kp/bpk-tv/350/output/350-audio_142800_eng=140800-video=1067600.m3u8
 #EXTINF:0 tvg-id="vtvcab18hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSportsNewsPremium.png",VTVCab 18 - OnSportsNewsPremium HD
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
-#EXTINF:0 tvg-id="vtvcab19hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2010.jpg" ,VTVCab 19 - Vie Dramas
+#EXTINF:0 tvg-id="vtvcab19hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONDRAMAS.png" ,VTVCab 19 - VieDramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:0 tvg-id="vtvcab20hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2020.png" ,VTVCab 20 - OnV Family
+#EXTINF:0 tvg-id="vtvcab20hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONVFAMILY.png" ,VTVCab 20 - OnVFamily
 https://ec04-pop3-hht.tv360.vn/bpk-token/5ewuq4fi6ngxb4yhg32oqlkiodus2sdq/bpk-tv/351/output/351-audio_142800_eng=140800-video=5154400.m3u8
-#EXTINF:0 tvg-id="vtvcab21hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2021.jpg" ,VTVCab 21 - OnKids
+#EXTINF:0 tvg-id="vtvcab21hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONKIDS.png" ,VTVCab 21 - OnKids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:0 tvg-id="vtvcab22hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2022.jpg" ,VTVCab 22 - Life TV
+#EXTINF:0 tvg-id="vtvcab22hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONLIFE.png" ,VTVCab 22 - Life TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:0 tvg-id="vtvcab23hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnGolfPremium.png",VTVCab 23 - OnGolfPremium HD
+#EXTINF:0 tvg-id="vtvcab23hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONGOLF.png",VTVCab 23 - OnGolf HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 
