@@ -335,15 +335,15 @@ https://vips-livecdn.fptplay.net/MzUyMjcwMTR8a2hhbmhob2FfaGxzLnNtaWx8dmlldHRlbHw
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8a2hhbmhob2EwMV9obHMuc21pbHx2aWV0dGVsfDE3ODU1NjE0NzR8MTE2LjEwNi4xODIuMTYyfDk4ZDRlNzE0ZTQ4YjU4OTgzZjZhZGIzNDE2ZDIwMzFl/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TTV11.png", Tây Ninh
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8dGF5bmluaDAxX2hscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MDg3NHwxMTYuMTA2LjE4Mi4xNjJ8NzdlZGQ2MTdiZmMxZTNmOTMyNWUyMjlmYWU2ODliNjE/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="THVL1 HD" tvg-name="THVL1 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png",Vĩnh Long 1 FHD
+#EXTINF:0 group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL1.png",Vĩnh Long 1 FHD
 https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="THVL2 HD" tvg-name="THVL2 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png",Vĩnh Long 2 FHD
+#EXTINF:0 group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL2.png",Vĩnh Long 2 FHD
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="THVL3 HD" tvg-name="THVL3 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png",Vĩnh Long 3 FHD
+#EXTINF:0 group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL3.png",Vĩnh Long 3 FHD
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png",Vĩnh Long 4 FHD
+#EXTINF:0 group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL4.png",Vĩnh Long 4 FHD
 https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="THVL5 HD" tvg-name="THVL5 HD" group-title="Địa Phương" tvg-logo="https://www.thvl.vn/wp-content/themes/thvl-2025/imgs/thvl5.png",Vĩnh Long 5 FHD
+#EXTINF:0 group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL5.png",Vĩnh Long 5 FHD
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8dmluaGxvbmc1aGRfdmhscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTE1OXwxMTYuMTA2LjE4Mi4xNjJ8ODI5ODBmMjBkZWRlMTg0OWE4OWFjMDExMDc4MzBlNjk/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/ATV1.png", An Giang 1
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8YW5naWFuZzAxX2hscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTIwMHwxMTYuMTA2LjE4Mi4xNjJ8ODRlZGI3MTdjMjhkM2I2MDc3YjI5OTgxNmQzMTI1Nzc/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
