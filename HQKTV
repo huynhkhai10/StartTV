@@ -17,7 +17,7 @@ https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=1
 #EXTINF:0 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV7_HD_M.png",VTV7 FHD
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:0 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV8_HD_M.png",VTV8 FHD
-https://vtvgolive-vtv02.vtvdigital.vn/XRwfiHOETdB9Xbq_YsTzzw/1785625987/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
+https://ec05-pop3-hht.tv360.vn/bpk-token/ed7qqqjfmyduduttnjvsf7yiieqp6ccb/bpk-tv/196/output/196-audio_208000_eng_iv_2=206000-video_iv_2=5256400.m3u8
 #EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV9_HD_M.png",VTV9 FHD
 https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV10_HD_M.png",VTV10 FHD
@@ -56,7 +56,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:0 tvg-id="vtvcab9hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONINFO.png"   ,VTVCab 9 - OnInfo TV
-
+https://ec01-pop3-hht.tv360.vn/bpk-token/k2hqgzz3cqggozzclvgvpdydm5li6a3h/bpk-tv/349/output/349-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
 #EXTINF:0 tvg-id="vtvcab10hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONCINE.png"      ,VTVCab 10 - OnCine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=176
@@ -75,7 +75,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnFootBall.png"  ,VTVCab 16 - OnFoolBall HD
 #https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab17hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONTRENDINGTV.png" ,VTVCab 17 - OnTrendingTV
-https://ec05-pop3-hht.tv360.vn/bpk-token/apnost2eatwe6d75mdfqfwxjj4b5v2kp/bpk-tv/350/output/350-audio_142800_eng=140800-video=1067600.m3u8
+https://ec05-pop3-hht.tv360.vn/bpk-token/3rm7qag2yl3qbdeltevn2wpyadoft6aa/bpk-tv/350/output/350-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
 #EXTINF:0 tvg-id="vtvcab18hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSportsNewsPremium.png",VTVCab 18 - OnSportsNewsPremium HD
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 #EXTINF:0 tvg-id="vtvcab19hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONVIEDRAMAS.png" ,VTVCab 19 - VieDramas
