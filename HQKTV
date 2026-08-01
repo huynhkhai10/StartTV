@@ -392,7 +392,7 @@ https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FtYXVoZF92aGxzLnNtaWx8dmlldHRlbHw
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Kênh TV360" tvg-logo="" group-title="TV360",Kênh TV360
+#EXTINF:-1 tvg-id="" tvg-name="Kênh TV360" tvg-logo="" group-title="TV360",Kênh TV360 Test
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
