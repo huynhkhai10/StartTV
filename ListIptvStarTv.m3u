@@ -340,14 +340,12 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KTV.png", Khánh Hòa
 https://vtvgolive-liveh12.vtvdigital.vn/hls/KHANHHOATV/03.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTPCT.png", Cần Thơ
-https://live.canthotv.vn/live/tv_web/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/STV1.png", Cần Thơ - Sóc Trăng 1
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTPCT.png", Cần Thơ 1
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HGTV.png", Cần Thơ 2
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FudGhvMDJfdmhscy5zbWlsfHZpZXR0ZWx8MTc4NTU1NTQ0MnwxMTYuMTA2LjE4Mi4xNjJ8OWVlNzI5NDE5MmQ0OGQ5MjRkZDljZWIyMzhhNmJhNjg/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/STV1.png", Cần Thơ 3
 https://vtvgolive-liveh34.vtvdigital.vn/hls/SOCTRANGTV/03.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/STV2.png", Cần Thơ - Sóc Trăng 2
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HGTV.png", Cần Thơ - Hậu Giang
-https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/LA34.png", Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTG.png", Tiền Giang
