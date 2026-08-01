@@ -163,7 +163,7 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV4HD.png", HTV4
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HD.png", HTV5
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV5HD.png", HTV5
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8YnR2OV9obHMuc21pbHx2aWV0dGVsfDE3ODU1NjMzNTR8MTE2LjEwNi4xODIuMTYyfGZlZGE5YWU1MDlhZDI2MjM0Y2MxY2U3NmQ4MDRmMzJj/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV7HD.png", HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
