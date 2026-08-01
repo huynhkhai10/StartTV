@@ -82,7 +82,7 @@ https://ec05-pop3-hht.tv360.vn/bpk-token/3rm7qag2yl3qbdeltevn2wpyadoft6aa/bpk-tv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:0 tvg-id="vtvcab20hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONVFAMILY.png" ,VTVCab 20 - OnVFamily
-https://ec04-pop3-hht.tv360.vn/bpk-token/5ewuq4fi6ngxb4yhg32oqlkiodus2sdq/bpk-tv/351/output/351-audio_142800_eng=140800-video=5154400.m3u8
+https://ec04-pop3-hht.tv360.vn/bpk-token/mxpgestmi5wuvry5b5qgjxtcjjs54ysk/bpk-tv/351/output/351-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
 #EXTINF:0 tvg-id="vtvcab21hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONKIDS.png" ,VTVCab 21 - OnKids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=179
@@ -90,8 +90,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:0 tvg-id="vtvcab23hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONGOLF.png",VTVCab 23 - OnGolf HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
+https://ec02-pop3-hht.tv360.vn/bpk-token/ca37g3izv36g2jsstzdren7tnuidp43n/bpk-tv/289/output/289-audio_198800_eng_iv_7=196800-video_iv_7=6525600.m3u8
 
 
 
@@ -300,7 +299,7 @@ https://vips-livecdn.fptplay.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_
 https://vips-livecdn.fptplay.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_NTV_Ngh%E1%BB%87_An_2017.png",Nghệ An
 https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png0",Lạng Sơn
+#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png",Lạng Sơn
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest?cb=20260114143704&path-prefix=vi",Quảng Ngãi 1
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
@@ -324,7 +323,7 @@ https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png",Hà Tĩnh
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaMuIcE08JvlOn8GiPEy6GZj2C6xzMyR9qPbDlX6GVAA&s=10",Bắc Ninh
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292026843/2a0e3c73a0a3_480_270.png",Bắc Ninh
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_480_270.png",Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
@@ -381,7 +380,7 @@ https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/ATV2.png" , An Giang 2
 https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KGTV1.png", An Giang 3
-https://live.fptplay53.net/angiang03_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CANTHO1.png", Cần Thơ 1
 https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CANTHO2.png", Cần Thơ 2
@@ -391,17 +390,9 @@ https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT1.png", Đồng Tháp 1
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT2.png", Đồng Tháp 2 - Miền Tây
-https://vips-livecdn.fptplay.net/MzUyMjcwMTR8bWllbnRheXRoZHQwMl92aGxzLnNtaWx8dmlldHRlbHwxNzg1NTYzNDAyfDExNi4xMDYuMTgyLjE2Mnw2M2RjMzBlMDYyNjFjODZkMmIxNjA2MDkxZmZkYWE5Yw/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
-https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FtYXVoZF92aGxzLnNtaWx8dmlldHRlbHwxNzg1NTU4NzIwfDExNi4xMDYuMTgyLjE2Mnw2MDc2N2ExZGE2NTEwMjhjNGM4NWFmZTE4OGUzYzMxNQ/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="vtvcab16" tvg-name="VTVCab 16 HD" tvg-logo="" group-title="TV360",VTVCab 16 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv360.vn|Custom-Data=eyJzZXNzaW9uSWQiOiJleUpoYkdjaU9pSklVekkxTmlKOS5leUpxZEdraU9pSXhOamN4TURjMk1UZ2lMQ0p6WkdraU9pSjdYQ0oxYzJWeVhDSTZYQ0lyXTmpjeE1EYzJNVGhjSWl4Y0ltMWxjbU5vWVc1MFhDSTZYQ0oyYVdWMGRHVnNkbUZ6WENJc1hDSmhjM05sZEZ3aU9sd2lkblIyWTJGaU1UWmZhR1JmTlRCbWNITmNJbjBpTENKcFlYUWlPakUzT0RVMU9ESTRNek1zSW1WNGNDSTZNVGM0TmpFNE1qZ3pNMzAudlg2dmxzMmVmY3RkSnNFdWQyeDlfVk1IdHpuTllqZ0xabWhIYk9PN0xUayIsIm1lcmNoYW50SWQiOiJ2aWV0dGVsdmFzIiwiYXBwSWQiOiJUVjM2MF9UZXN0Iiwic2VjcmV0S2V5IjoiTzlBR0tNRlNUaFlEdkJUYTBScGEiLCJ1c2VySWQiOiIxNjcxMDc2MTgiLCJyZXFJZCI6IjZiYmU2Y2EyLTgzMTQtNjdkNC0zY2RmLWRlNDYxOGMwZmQzZiIsImRldmljZUluZm8iOiJ7XCJkZXZpY2VJZFwiOlwiNjlmZDVlMTUtMTQzZC1lZTA0LWFhMTktZjk5ZmM2MzRhY2I2XCIsXCJwYWNrYWdlTmFtZVwiOlwiRFJNUGFja2VyXCIsXCJwYWNrYWdlSWRcIjpcInR2MzYwLnZuXCIsXCJhcHBWZXJzaW9uQ29kZVwiOlwiMS4wLjVcIixcImxheW91dFwiOlwiQmxpbmtcIixcInBsYXRmb3JtXCI6XCJ3ZWJcIixcIm5hbWVcIjpcIkNocm9tZVwiLFwidmVyc2lvblwiOlwiMTUxLjAuMC4wXCIsXCJkZXNjcmlwdGlvblwiOlwiQ2hyb21lIDE1MS4wLjAuMCBvbiBXaW5kb3dzIDEwIDY0LWJpdFwifSJ9&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36|JB
-https://pop24-ec2-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NjA4MDM0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8yMjIvREFTSF9EUk1fTUhMXzJzLyIsInNlc3Npb25fY2RuX2lkIjoiYjk4ZjllMWRlNmFlMTc3MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTcyLjI0LjE3My4xOTYiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6Ijg2Iiwic291cmNlcyI6WzM1Miw0OTAsNDkzLDQ5NV19.qyMs0PsTBXjIZnA7zi_Mtsraz6gtWZ5OufX9w-D7dYcZyGkCrV6_cxuWLv4QXpBE588ocicVpltWylJeG72pag==/live/eds/222/DASH_DRM_MHL_2s/index.mpd?screen=MHL&uid=167107618
