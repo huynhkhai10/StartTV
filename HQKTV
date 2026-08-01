@@ -265,6 +265,23 @@ https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn
 https://vips-livecdn.fptplay.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2 HD
 https://vips-livecdn.fptplay.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XfkC7BY.png",Nghệ An
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8bmdoZWFuX2hscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTM5NXwxMTYuMTA2LjE4Mi4xNjJ8MmRiZjhhMjBiNGFmYTVlYTNlMzRlZDMyMjNmNGM3ZDQ/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XfkC7BY.png",Lạng Sơn
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8bGFuZ3Nvbl9obHMuc21pbHx2aWV0dGVsfDE3ODU1NjE1Njh8MTE2LjEwNi4xODIuMTYyfDM3NjEyYWNmYWNiNDg2MmIxYTVlZDQ2NDMxYjJlZjY4/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XfkC7BY.png",Quảng Ngãi 1
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8cXVhbmduZ2FpX2hscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTY0NnwxMTYuMTA2LjE4Mi4xNjJ8MmU4OGQyZGZmNDFmYzM0OTA1NmQyYTZkZmE3ZTg2NmI/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XfkC7BY.png",Quảng Ngãi 2
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8cXVhbmduZ2FpMDFfaGxzLnNtaWx8dmlldHRlbHwxNzg1NTYxNjk1fDExNi4xMDYuMTgyLjE2MnwwMTZiNDkwNTliYmIzNjM2OWI4ZWE3NjQ1YjJiOTZmNw/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="TH DA NANG "group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/DaNangTV1_%282023%2C_b%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/200?cb=20231123085722&path-prefix=vi",Đà Nẵng 1
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8ZGFuYW5nMV9obHMuc21pbHx2aWV0dGVsfDE3ODU1NTk2MTV8MTE2LjEwNi4xODIuMTYyfGM0NTBmMTU3ZWNhMTU0NDJkYTVlYzdmYWY2ZmFlMGNh/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="http://www.drt.danang.vn/images/drt2.png",Đà Nẵng 2
@@ -308,6 +325,10 @@ https://vips-livecdn.fptplay.net/MzUyMjcwMTR8bGFtZG9uZzAyX2hscy5zbWlsfHZpZXR0ZWx
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DN1.png", Đồng Nai 1
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8ZG9uZ25haTFfaGxzLnNtaWx8dmlldHRlbHwxNzg1NTYwODAyfDExNi4xMDYuMTgyLjE2MnxlYTliOGY1Zjk0MmNmNTRhNDNhMDgxMTJjYWM5ZmZlZA/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DN2.png", Đồng Nai 2
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KTV.png", Khánh Hòa
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8a2hhbmhob2FfaGxzLnNtaWx8dmlldHRlbHwxNzg1NTYxMzA5fDExNi4xMDYuMTgyLjE2Mnw3ODNiZjE4OTMwNjk4ZmJiYTQ1MGM4ZGIzM2Q2YjMwZg/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KTV.png", Khánh Hòa 1
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8a2hhbmhob2EwMV9obHMuc21pbHx2aWV0dGVsfDE3ODU1NjE0NzR8MTE2LjEwNi4xODIuMTYyfDk4ZDRlNzE0ZTQ4YjU4OTgzZjZhZGIzNDE2ZDIwMzFl/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8ZG9uZ25haTJfaGxzLnNtaWx8dmlldHRlbHwxNzg1NTYwODQ0fDExNi4xMDYuMTgyLjE2Mnw5YzI2NjQ3NzZlODhkOTFhZjZkYzE1YjQxNTczMTI2ZQ/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TTV11.png", Tây Ninh
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8dGF5bmluaDAxX2hscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MDg3NHwxMTYuMTA2LjE4Mi4xNjJ8NzdlZGQ2MTdiZmMxZTNmOTMyNWUyMjlmYWU2ODliNjE/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8
@@ -318,17 +339,15 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="THVL3 HD" tvg-name="THVL3 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png",Vĩnh Long 3 FHD
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png",Vĩnh Long 4 FHD
-https://live-a.fptplay53.net/live/media/vinhlong4/live247-hls-avc/vinhlong4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="THVL5 HD" tvg-name="THVL5 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png",Vĩnh Long 5 FHD
-https://live-a.fptplay53.net/live/media/vinhlong5/live247-hls-avc/vinhlong5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8dmluaGxvbmc1aGRfdmhscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTE1OXwxMTYuMTA2LjE4Mi4xNjJ8ODI5ODBmMjBkZWRlMTg0OWE4OWFjMDExMDc4MzBlNjk/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KGTV.png", An Giang 1
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8YW5naWFuZzAxX2hscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTIwMHwxMTYuMTA2LjE4Mi4xNjJ8ODRlZGI3MTdjMjhkM2I2MDc3YjI5OTgxNmQzMTI1Nzc/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/AGTV.png" ,An Giang 2
-https://vtvgolive-liveh12.vtvdigital.vn/hls/ANGIANGTV/03.m3u8
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8YW5naWFuZzAyaGRfdmhscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTIzMXwxMTYuMTA2LjE4Mi4xNjJ8OTZlMzVjYmY1NTMxNmY1OTljNDU2Yjc4NTZiOTY5MWE/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KGTV1.png", An Giang 3
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KTV.png", Khánh Hòa
-https://vtvgolive-liveh12.vtvdigital.vn/hls/KHANHHOATV/03.m3u8
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8YW5naWFuZzAzX2hscy5zbWlsfHZpZXR0ZWx8MTc4NTU2MTI3NXwxMTYuMTA2LjE4Mi4xNjJ8Zjg2NWNmNmQwOGJhMjE3MTQ4M2M2NTM3MTljMjUxODI/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTPCT.png", Cần Thơ 1
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FudGhvMDFfdmhscy5zbWlsfHZpZXR0ZWx8MTc4NTU1ODc5NXwxMTYuMTA2LjE4Mi4xNjJ8YzUyNjM3MjkxMzE2NTJiMjZhZTRjZWZmODkxZTZlNjU/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HGTV.png", Cần Thơ 2
@@ -336,7 +355,7 @@ https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FudGhvMDJfdmhscy5zbWlsfHZpZXR0ZWx
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/STV1.png", Cần Thơ 3
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FudGhvMDNfaGxzLnNtaWx8dmlldHRlbHwxNzg1NTU4ODQ3fDExNi4xMDYuMTgyLjE2Mnw2ODJmMjA0ZmQ0OTAzMjdkNWU4MTNlNjk3MzBiMjMxOQ/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT1.png", Đồng Tháp 1
-https://vtvgolive-liveh12.vtvdigital.vn/hls/DONGTHAPTV/03.m3u8
+https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT2.png", Đồng Tháp 2 - Miền Tây
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
