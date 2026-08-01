@@ -391,7 +391,7 @@ https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FtYXVoZF92aGxzLnNtaWx8dmlldHRlbHw
 
 
 
-#EXTINF:0 tvg-id="hbohd" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Quốc Tế",HBO
+#EXTINF:0 tvg-id="hbohd" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="địa o",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
