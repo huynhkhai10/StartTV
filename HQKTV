@@ -133,15 +133,17 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV1HD.png", HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV2HD.png", HTV2 FHD - Vie Channel
+#EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV2HD.png", HTV2 - Vie Channel
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV3HD.png", HTV3 HD
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV3HD.png", HTV3
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV4HD.png", HTV Key HD
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV4HD.png", HTV4
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV7HD.png" group-title="HTV",HTV7 FHD
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV4HD.png", HTV5
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8YnR2OV9obHMuc21pbHx2aWV0dGVsfDE3ODU1NjMzNTR8MTE2LjEwNi4xODIuMTYyfGZlZGE5YWU1MDlhZDI2MjM0Y2MxY2U3NmQ4MDRmMzJj/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV7HD.png", HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV9HD.png" group-title="HTV",HTV9 FHD
+#EXTINF:-1 tvg-id="htv9" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV9HD.png", HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 
@@ -189,8 +191,8 @@ https://ec05-pop3-hht.tv360.vn/bpk-token/euzekwqkh5mvuapgidpcimsflisterk2/bpk-tv
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5".   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV5.png", SCTV5 - SCJ TV HomeShopping
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv6hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV6_HD.png", SCTV6 HD - SNTV
-#https://vips-livecdn.fptplay.net/hda3/film360_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv6hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV6_HD.png", SCTV6 HD
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8ZmlsbTM2MF92aGxzLnNtaWx8dmlldHRlbHwxNzg1NTYzNDUzfDExNi4xMDYuMTgyLjE2MnxjNzVlMmVmYTU2MTE1MTBmZjY3NmM0YWJiNDNhNWExNA/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv7hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV7_HD.png", SCTV7 HD - SHOW
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv7/sd1/index.m3u8?md5=t2rQwa4sPnnjLhLl96Sgng&expires=2556118740|Referer=http://sctvonline.vn/
@@ -365,7 +367,7 @@ https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FudGhvMDNfaGxzLnNtaWx8dmlldHRlbHw
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT1.png", Đồng Tháp 1
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT2.png", Đồng Tháp 2 - Miền Tây
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+https://vips-livecdn.fptplay.net/MzUyMjcwMTR8bWllbnRheXRoZHQwMl92aGxzLnNtaWx8dmlldHRlbHwxNzg1NTYzNDAyfDExNi4xMDYuMTgyLjE2Mnw2M2RjMzBlMDYyNjFjODZkMmIxNjA2MDkxZmZkYWE5Yw/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
 https://vips-livecdn.fptplay.net/MzUyMjcwMTR8Y2FtYXVoZF92aGxzLnNtaWx8dmlldHRlbHwxNzg1NTU4NzIwfDExNi4xMDYuMTgyLjE2Mnw2MDc2N2ExZGE2NTEwMjhjNGM4NWFmZTE4OGUzYzMxNQ/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 
