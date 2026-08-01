@@ -208,7 +208,7 @@ https://ec05-pop3-hht.tv360.vn/bpk-token/euzekwqkh5mvuapgidpcimsflisterk2/bpk-tv
 #EXTINF:-1 tvg-id="sctv1hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV1_HD.png", SCTV1 HD - Hài
 https://vtvgolive-sctv.vtvdigital.vn/yEk3lz9p3FkBvu2003vVSQ/1785606601/asdfasdvgas2vtvsctv/1/masterh264.m3u8
 #EXTINF:-1 tvg-id="sctv2hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV2_HD.png", SCTV2 HD - Net Start
-#https://livecdn.fptplay.net/sda/sctv2_2000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTIzOTc5MzgsICJyZXNvdXJjZV9pZCI6ICJzY3R2Ml8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImMwMDUyNjAxYWUyNjE2ZDMxNTU3MWUwZDdkMDcwNTM1IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNDg0MzM4LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331
+https://ec03-pop3-hht.tv360.vn/bpk-token/egausynidjdgcrckf5fsbakjmeqycslb/bpk-tv/343/output/343-audio_214835_und_iv_1=214800-video_iv_1=5254000.m3u8
 #EXTINF:-1 tvg-id="sctv3hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV3_HD.png", SCTV3 HD - See TV
 https://vtvgolive-sctvdrm.vtvdigital.vn/REM3foEoVwKGBGUf9aCw6Q/1785607443/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="sctv4hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV4_HD.png", SCTV4 HD - Giải Trí
@@ -216,7 +216,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/N5psktacgnBsA4xm4oaZGw/1785607469/manife
 #EXTINF:-1 tvg-id="sctv5".   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV5.png", SCTV5 - SCJ TV HomeShopping
 https://vtvgolive-sctv.vtvdigital.vn/8JaFJv_CzdOl4Hjq2QGq_A/1785607503/5m63a995d8vtvsctv/5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV6_HD.png", SCTV6 HD
-https://vips-livecdn.fptplay.net/MzUyMjcwMTR8ZmlsbTM2MF92aGxzLnNtaWx8dmlldHRlbHwxNzg1NTYzNDUzfDExNi4xMDYuMTgyLjE2MnxjNzVlMmVmYTU2MTE1MTBmZjY3NmM0YWJiNDNhNWExNA/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV7_HD.png", SCTV7 HD - SHOW
 https://vtvgolive-sctvdrm.vtvdigital.vn/SuJDTNYaEJttz1-7FZIS9Q/1785607529/manifest/sctv7/master.m3u8
 #EXTINF:-1 tvg-id="sctv8hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV8.png", SCTV8 HD - VITV
