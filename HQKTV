@@ -397,11 +397,8 @@ https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="YEAH1_TV" group-title="📦| In The Box" tvg-logo="https://githubusercontent.com", YEAH1 TV (Fixed)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=765c826c381e4d58849784bb206c8e90:a9b6e79b266ed5c84069e05ef2eb6132
-#KODIPROP:inputstream.adaptive.max_video_width=1920
-#KODIPROP:inputstream.adaptive.max_video_height=1080
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36&Origin=https://vtvprime.vn&Referer=https://vtvprime.vn
+#KODIPROP:inputstream.adaptive.license_key=765c826c381e4d58849784bb206c8e90:c039fb3a107694b5220b9e03235f6eae
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/YEAH1_TV/manifest.mpd
