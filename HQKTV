@@ -484,6 +484,39 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 
 
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Box" tvg-logo="https://s12814.cdn.mytvnet.vn/vimages/61/1d/da/a1/11/17/61da1-phollywoodclasic-channel-unkn.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/manifest.mpd
+#EXTINF:-1 tvg-id="boxhits" group-title="Box" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Box_Hits_logo_b%E1%BA%A3n_2.png/revision/latest?cb=20240816102244&path-prefix=vi", Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+#EXTINF:-1 tvg-id="musicbox" group-title="Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
+#EXTINF:-1 tvg-id="woman" group-title="Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
+
+
+
 #EXTINF:0 tvg-id="kpm" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/92/Kplus_logo.png",K+Live
 #https://media.publit.io/file/h_1080/KenhKhongConSong.mp4
 #EXTINF:0 tvg-id="k1"  group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 HD
@@ -494,6 +527,8 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 #EXTINF:0 tvg-id="kpc" group-title="K+Old" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png",K+PC HD
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
+
+
 
 #EXTINF:0 tvg-id="kpm"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusSportCinema.png",K+Sport Cinema HD
 #https://hls.c1.omlet.gg/live/C3TQJKCNJ32VD4QPZYU2FTMQ2RBAR5QCW6O4AID65YRGH5SURR2A/playlist.m3u8?sc=TWO&cdn=NginxCNC
@@ -507,6 +542,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 #https://media.publit.io/file/h_1080/KPlusSport2.mp4
 #EXTINF:0 tvg-id="kkids" group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusKids.png",K+Kids HD
 #https://media.publit.io/file/h_1080/KPlusKids.mp4
+
 
 
 #EXTINF:0 tvg-id="antvhd" group-title="Tin Tức Chính Trị" tvg-logo="https://i.imgur.com/kzKZm1L.png", ANTV FHD
