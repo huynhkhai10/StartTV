@@ -342,7 +342,8 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="HiTV" group-title="HanoiCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png", HiTV - HanoiCab 1
-https://vmttv.dpdns.org/tv360/?id=hitv
+https://lsm-g12.tv360.vn:18443/332.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Tftgrcog2WLWGk8nANjknxBKXvuMf3tpwgnV++j1gJBeOoEH0P3jbkoGxBdKh4599zKAD928X06dp9E21/BlNiWY2AnMLIt2Vs3FeA4DrGq14E3DmHZ6bf65ToXRYw5x/zW3PMZTeNeT0zsKkI2XNivOR140uVVcfKuPDGkfCRWw==&uid=167107618
+#https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="YouTV" group-title="HanoiCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png", YouTV - HanoiCab 2
 https://rr1-ateme.tv360.vn/live/eds/447/HLS_Clean_MHL_2s/447.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0Ny9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4NTg2MzEzOX0.Ga9rGtVYuFDFxqJd_-xZ2sEdp-l7RhDvIEEiJaVileKbTW4jGz9dkrhE4rD2SrFuRetDhmhnB0vR3aW_ZeftsQ&screen=MHL&uid=167107618
 #https://freem3u.xyz/api/live/play.m3u8?vid=31
@@ -400,10 +401,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
 https://livesctvng.vtvprime.vn/mean/SCTV9/manifest.mpd
 #EXTINF:-1 tvg-id="sctv10"   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV10.png", SCTV10 - VTVHyundai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
+https://vmttv.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV11_HD.png", SCTV11 HD - TV STAR
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
