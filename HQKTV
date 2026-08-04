@@ -376,7 +376,6 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
 https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
 #EXTINF:-1 tvg-id="sctv5".   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV5.png", SCTV5 - SCJ TV HomeShopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://liveh34vng.vtvprime.vn/hls/SCTV5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV6_HD.png", SCTV6 HD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
