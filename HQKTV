@@ -37,8 +37,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONPHIMVIET.png"   ,VTVCab 2 - On Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
-#EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports.png"     ,VTVCab 3 - OnSports SD
-#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports.png"     ,VTVCab 3 - OnSports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -52,7 +50,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:0 tvg-id="vtvcab6hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports+.png"    ,VTVCab 6 - OnSports+
-#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
+https://livezenatm.vtvprime.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd
 #EXTINF:0 tvg-id="vtvcab7hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONO2TV.png",VTVCab 7 - OnO2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=136
@@ -60,7 +62,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:0 tvg-id="vtvcab9hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONINFO.png"   ,VTVCab 9 - OnInfo TV
-#https://ec01-pop3-hht.tv360.vn/bpk-token/k2hqgzz3cqggozzclvgvpdydm5li6a3h/bpk-tv/349/output/349-audio_208000_eng_iv_5=206000-video_iv_5=5256400.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39425f1a9f7f4db985b5e7b2e65e4208:63e3aad2bc5bed77e59724ba8d2e94f0
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/INFO_TV/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab10hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONCINE.png"      ,VTVCab 10 - OnCine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=176
@@ -68,7 +74,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:0 tvg-id="vtvcab13hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2013.png" ,VTVcab 13 - VTV Hyundai Home Shopping
-#https://github.com
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab14hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTVCab%2014.png"  ,VTVCab 14 - LotteDatViet
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 #EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONMUSIC.png" ,VTVCab 15 - OnMusic
