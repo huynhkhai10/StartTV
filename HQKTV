@@ -433,8 +433,8 @@ https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/Logo_LTV_HD_Lai_Ch%C3%A2u_2022_%28c%C3%B3_website%2C_B%E1%BA%A3n_2%29.png/revision/latest?cb=20220209102512&path-prefix=vi",Lai Châu
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_480_270.png",Thanh Hóa
-https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg/1280px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ef/Logo_B%C3%A1o_v%C3%A0_ph%C3%A1t_thanh%2C_truy%E1%BB%81n_h%C3%ACnh_Qu%E1%BA%A3ng_Tr%E1%BB%8B.png",Quảng Trị
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TH DA NANG "group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/09/1751337054302/df569bbaeead_480_270.png",Đà Nẵng 1
@@ -508,12 +508,12 @@ https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CANTHO2.png", Cần Thơ 2
 https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CANTHO3.png", Cần Thơ 3
-https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT1.png", Đồng Tháp 1
-https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b2500000.m3u8
+https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT2.png", Đồng Tháp 2 - Miền Tây
-https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
-https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
 
 
