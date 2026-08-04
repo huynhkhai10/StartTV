@@ -344,7 +344,8 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="HiTV" group-title="HanoiCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png", HiTV - HanoiCab 1
 https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="YouTV" group-title="HanoiCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png", YouTV - HanoiCab 2
-https://freem3u.xyz/api/live/play.m3u8?vid=31
+https://rr1-ateme.tv360.vn/live/eds/447/HLS_Clean_MHL_2s/447.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0Ny9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4NTg2MzEzOX0.Ga9rGtVYuFDFxqJd_-xZ2sEdp-l7RhDvIEEiJaVileKbTW4jGz9dkrhE4rD2SrFuRetDhmhnB0vR3aW_ZeftsQ&screen=MHL&uid=167107618
+#https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="" group-title="HanoiCab" tvg-logo="https://i.imgur.com/FD1sjQe.png", Hanoicab4 - MOV
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 
