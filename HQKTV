@@ -43,7 +43,7 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/GIAITRI_TV_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7417db88928243fda4e03596bbd19a27:eebb689de1191ae1b207d32f0d5ca9fe
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/PHIM_VIET/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports.png"     ,VTVCab 3 - OnSports HD
+#EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_480_270.png"     ,VTVCab 3 - OnSports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,7 +61,7 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VAN_HOA/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c8d53c9d4f48a78efdfd74888ffc38:8dfc9ea0293e3b94e5f44b8d9f2fac9f
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM2/THETHAO_HD/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab6hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSports+.png"    ,VTVCab 6 - OnSports+
+#EXTINF:0 tvg-id="vtvcab6hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png"    ,VTVCab 6 - OnSports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -92,9 +92,7 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONMUSIC.png" ,VTVCab 15 - OnMusic
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnFootBall.png"  ,VTVCab 16 - OnFoolBall SD
-#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnFootBall.png"  ,VTVCab 16 - OnFoolBall HD
+#EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png"  ,VTVCab 16 - OnFoolBall HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,7 +104,7 @@ https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=765c826c381e4d58849784bb206c8e90:2970317ebf86d70fa11434eab4c59c5d
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/YEAH1_TV/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab18hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/OnSportsNewsPremium.png",VTVCab 18 - OnSportsNewsPremium HD
+#EXTINF:0 tvg-id="vtvcab18hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_480_270.png",VTVCab 18 - OnSportsNewsPremium HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -322,33 +320,33 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 
 #EXTINF:-1 tvg-id="sctv1hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV1_HD.png", SCTV1 HD - Hài
-https://vtvgolive-sctv.vtvdigital.vn/yEk3lz9p3FkBvu2003vVSQ/1785606601/asdfasdvgas2vtvsctv/1/masterh264.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV2_HD.png", SCTV2 HD - Net Start
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv3hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV3_HD.png", SCTV3 HD - See TV
-https://vtvgolive-sctvdrm.vtvdigital.vn/REM3foEoVwKGBGUf9aCw6Q/1785607443/manifest/sctv3/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV4_HD.png", SCTV4 HD - Giải Trí
-https://vtvgolive-sctvdrm.vtvdigital.vn/N5psktacgnBsA4xm4oaZGw/1785607469/manifest/sctv4/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv4
 #EXTINF:-1 tvg-id="sctv5".   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV5.png", SCTV5 - SCJ TV HomeShopping
-https://vtvgolive-sctv.vtvdigital.vn/8JaFJv_CzdOl4Hjq2QGq_A/1785607503/5m63a995d8vtvsctv/5/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 tvg-id="sctv6hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV6_HD.png", SCTV6 HD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV7_HD.png", SCTV7 HD - SHOW
-https://vtvgolive-sctvdrm.vtvdigital.vn/SuJDTNYaEJttz1-7FZIS9Q/1785607529/manifest/sctv7/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv7
 #EXTINF:-1 tvg-id="sctv8hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV8.png", SCTV8 HD - VITV
-https://vtvgolive-sctv.vtvdigital.vn/KbGSnqxDiCYd0Ny-33BxpQ/1785607653/bdnc6qbiq1vtvsctv/8/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV9_HD.png", SCTV9 HD - Phim TVB
-https://vtvgolive-sctvdrm.vtvdigital.vn/nBBC-02jLr7UlrHieQv79A/1785607630/manifest/sctv9/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv9
 #EXTINF:-1 tvg-id="sctv10"   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV10.png", SCTV10 - VTVHyundai
-https://vtvgolive-sctv.vtvdigital.vn/DLSbk4CeVjEPXL5IbWtaMw/1785671625/asdfasdvgas2vtvsctv/10/masterh264.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV11_HD.png", SCTV11 HD - TV STAR
-https://vtvgolive-sctvdrm.vtvdigital.vn/KrjRDEhxc8ajz04mh4G3RQ/1785607707/manifest/sctv11/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv11
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV12_HD.png", SCTV12 HD - Du Lịch
-https://vtvgolive-sctvdrm.vtvdigital.vn/PosO1joFLIumqSOFU4O2-g/1785607745/manifest/sctv12/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv12
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV13_HD.png", SCTV13 HD - Lady TV
-https://vtvgolive-sctvdrm.vtvdigital.vn/czrGn4kro5wQK4nouUaXbA/1785607766/manifest/sctv13/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv13
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV14_HD.png", SCTV14 HD - Kênh Phim Việt
-https://vtvgolive-sctv.vtvdigital.vn/FtKqj4bLlq4Fj_hEH-BMPQ/1785607784/6GoYKNrTy3vtvsctv/14/masterh264.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv14
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV15_HD.png", SCTV15 HD - Ssport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -356,7 +354,7 @@ https://vtvgolive-sctv.vtvdigital.vn/FtKqj4bLlq4Fj_hEH-BMPQ/1785607784/6GoYKNrTy
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV16_HD.png", SCTV16 HD - Phim Nước Ngoài Đặc Sắc
-https://vtvgolive-sctvdrm.vtvdigital.vn/RH_jVnSWsnDRdlOC0SEokA/1785607832/manifest/sctv16/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv16
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV17_HD.png", SCTV17 HD - Ssport
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -364,13 +362,13 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/RH_jVnSWsnDRdlOC0SEokA/1785607832/manife
 #KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
 https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV18_HD.png", SCTV18 HD - Kênh 18
-https://vtvgolive-sctvdrm.vtvdigital.vn/nwiB-SAjCEIzd_v_kCe4Gg/1785607862/manifest/sctv18/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv18
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV19_HD.png", SCTV19 HD - Channel T
-https://vtvgolive-sctv.vtvdigital.vn/uXwtSQsmqw3jotSiF_whsQ/1785607876/5m63a995d8vtvsctv/19/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv19
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV20_HD.png", SCTV20 HD - Ca Nhạc
-https://vtvgolive-sctvdrm.vtvdigital.vn/uKhA9ziPSpxKGkkbFOfClA/1785607902/manifest/sctv20/master.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV21_HD.png", SCTV21 HD - Việt Nam Ký Ức
-https://vtvgolive-sctv.vtvdigital.vn/I6ULYdh6SdI_RQYVTAATcw/1785607918/bdnc6qbiq1vtvsctv/21/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV22_HD.png", SCTV22 HD - Ssport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
