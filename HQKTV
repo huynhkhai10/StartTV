@@ -37,7 +37,7 @@ https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtod
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e1c6077ab034d3b9f02d0ae43825eec:c40b6a2c7b94cbd4958b1d93d9b23aed
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/GIAITRI_TV_HD/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONPHIMVIET.png"   ,VTVCab 2 - On Phim Việt
+#EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://vtvprime.vn/default/placeholderChannel.png"   ,VTVCab 2 - On Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
