@@ -37,19 +37,19 @@ https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtod
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e1c6077ab034d3b9f02d0ae43825eec:c40b6a2c7b94cbd4958b1d93d9b23aed
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/GIAITRI_TV_HD/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://img.vtvprime.vn/vDASEJI2IRP0eBox0ta6hgKo4vnY-3AdofWLa5lSqjM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTc3YzdkNmItZTVhNi00ZTkyLWIzYzUtMGEzMTkyZjIyM2RhLnBuZw==.png"   ,VTVCab 2 - On Phim Việt
+#EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONPHIMVIET.png"   ,VTVCab 2 - On Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7417db88928243fda4e03596bbd19a27:eebb689de1191ae1b207d32f0d5ca9fe
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/PHIM_VIET/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_480_270.png"     ,VTVCab 3 - OnSports HD
+#EXTINF:0 tvg-id="vtvcab3hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONSPORTS.png"     ,VTVCab 3 - OnSports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM2/THETHAO_HD/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab4hd"group-title="VTVCab" tvg-logo="https://img.vtvprime.vn/8-eDFNeJkwyONvmJVu_JydPc2dZaNJXuBTY7vtvCxxE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWQzOTEzNjgtYTJmNy00NDBkLWI0N2ItNzA2MDliNjJmNDYzLnBuZw==.png"   ,VTVCab 4 - OnMovies
+#EXTINF:0 tvg-id="vtvcab4hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONMOVIE.png"   ,VTVCab 4 - OnMovies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,7 +61,7 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VAN_HOA/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c8d53c9d4f48a78efdfd74888ffc38:8dfc9ea0293e3b94e5f44b8d9f2fac9f
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/E_CHANNEL/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab6hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png"    ,VTVCab 6 - OnSports+
+#EXTINF:0 tvg-id="vtvcab6hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONSPORTSPLUS.png"    ,VTVCab 6 - OnSports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -69,10 +69,16 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/E_CHANNEL/manifest.mpd
 https://livezenatm.vtvprime.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd
 #EXTINF:0 tvg-id="vtvcab7hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONO2TV.png",VTVCab 7 - OnO2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=136
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b5a915f267e417085e0f68200395a41:5544d7c1e523a53d404ab2823132ee7e
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/O2_TV/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab8hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONBIBI.png"   ,VTVCab 8 - OnBibi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=178
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4196ec8c5fca4f1cb50e8f2668c63b10:a52178cddaf1b8726aadf6fa697b5bf4
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/O2_TV/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab9hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONINFO.png"   ,VTVCab 9 - OnInfo TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -81,11 +87,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=178
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/INFO_TV/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab10hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONCINE.png"      ,VTVCab 10 - OnCine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=176
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aad542fff274b2685264603b5075632:7555eb438217938dbb48665863b46fa1
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/FILM_TV/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab12hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONSTYLE.png" ,VTVCab 12 - OnStyleTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:0 tvg-id="vtvcab13hd"group-title="VTVCab" tvg-logo="https://img.vtvprime.vn/HtHrujIGdH7kvPbKpmRiwvUhsO25UgF-1rJIcgdOILM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjM3MDI4YTYtMmYwOC00ZmUxLTlhNTMtNjBmOGZjNmQzYzRlLnBuZw==.png" ,VTVcab 13 - Home Shopping
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=414a288afe3d4f3985407d9613ec21eb:31d12c6d561e208f4c79b4a6c280dd5b
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/STYLE_TV_HD/manifest.mpd
+#EXTINF:0 tvg-id="vtvcab13hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONHOMESHOPPING.png" ,VTVcab 13 - Home Shopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/manifest.mpd
@@ -93,8 +105,11 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/manifest.mpd
 #https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 #EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONMUSIC.png" ,VTVCab 15 - OnMusic
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png"  ,VTVCab 16 - OnFoolBall HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e518bbb7e8614a7da4d8d974d62486da:b509751f1fa3c676f482cde476670dd6
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/M_CHANNEL/manifest.mpd
+#EXTINF:0 tvg-id="vtvcab16hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONFOOLBALL.png"  ,VTVCab 16 - OnFoolBall HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,7 +121,7 @@ https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=765c826c381e4d58849784bb206c8e90:2970317ebf86d70fa11434eab4c59c5d
 https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/YEAH1_TV/manifest.mpd
-#EXTINF:0 tvg-id="vtvcab18hd"group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_480_270.png",VTVCab 18 - OnSportsNewsPremium HD
+#EXTINF:0 tvg-id="vtvcab18hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONSPORTSNEWS.png",VTVCab 18 - OnSportsNews HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -114,15 +129,29 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/YEAH1_TV/manifest.mpd
 https://livebytatm.vtvprime.vn/live/data8/THETHAO_TINTUC_HD/Live_DASHDRM/THETHAO_TINTUC_HD.mpd
 #EXTINF:0 tvg-id="vtvcab19hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONVIEDRAMAS.png" ,VTVCab 19 - VieDramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=177
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2abb744acd24369943a79635f4fa43a:f674652c13211536e0e21d9ea860ca90
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/D_DRAMAS_HD/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab20hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONVFAMILY.png" ,VTVCab 20 - OnVFamily
-https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c01b22c5f5b44d72b9902b33a4c36fb7:8fe81a99e5b1cc891bb9e9f848b6e2e7
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VFAMILY/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab21hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONKIDS.png" ,VTVCab 21 - OnKids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=179
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c07669233e07416594577b29d60372a6:e8cfcf678750f494312dfcbdaee5132e
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BIBI_PLUS_clear/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab22hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONLIFE.png" ,VTVCab 22 - Life TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca9c781a5ba142f2b03a8028fcecb847:c69c101846413ae8faa8d353c7979121
+https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/LIFE_TV/manifest.mpd
 #EXTINF:0 tvg-id="vtvcab23hd"group-title="VTVCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/ONGOLF.png",VTVCab 23 - OnGolf HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
