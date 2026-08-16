@@ -397,7 +397,6 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 https://livesctvng.vtvprime.vn/mean/SCTV9/manifest.mpd
 #EXTINF:-1 tvg-id="sctv10"   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV10.png", SCTV10 - VTVHyundai
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV11_HD.png", SCTV11 HD - TV STAR
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
