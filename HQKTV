@@ -3,7 +3,7 @@
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV1_HD_M.png",VTV1 FHD
-https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV2_HD_M.png",VTV2 FHD
 https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV3_HD_M.png",VTV3 FHD
