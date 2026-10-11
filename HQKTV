@@ -625,9 +625,9 @@ https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL3.png",Vĩnh Long 3 FHD
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL4.png",Vĩnh Long 4 FHD
-https://vips-livecdn.fptplay.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong4/live247-hls-avc/vinhlong4-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL5.png",Vĩnh Long 5 FHD
-https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong5/live247-hls-avc/vinhlong5-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/ATV1.png", An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="angiang2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/ATV2.png" , An Giang 2
