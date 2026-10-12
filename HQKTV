@@ -332,7 +332,11 @@ https://livebytatm.vtvprime.vn/live/data8/HTVKey/Live_DASHDRM/HTVKey.mpd
 #KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
 
 #EXTINF:-1 tvg-id="htv7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV7HD.png", HTV7
-https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
+https://livebytatm.vtvprime.vn/live/data8/HTV7HD/Live_DASHDRM/HTV7HD.mpd
 #EXTINF:-1 tvg-id="htv9" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV9HD.png", HTV9
 https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
