@@ -326,11 +326,7 @@ https://livebytatm.vtvprime.vn/live/data8/HTV3/Live_DASHDRM/HTV3.mpd
 #KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
 https://livebytatm.vtvprime.vn/live/data8/HTVKey/Live_DASHDRM/HTVKey.mpd
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV5HD.png", HTV5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
-
+https://1011154949.vnns.net/CDN-FPT/HTV5-HD-ABR/HTV-ABR/HTV5-HD-1080p/chunks.m3u8?XSignKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiWC1EUk0iLCJqdGkiOiJmYTRlZTE1Yy1mOGUxLTQwYzUtYWE0ZS05NGZjYTI3Mjc3ZDgiLCJleHRyYURhdGEiOiJUaGlzIGlzIGFkZGl0aW9uYWwgZGF0YSB0byBpbmNyZWFzZSB0aGUgcGF5bG9hZCBzaXplLiIsImV4cCI6MTcyNDEzMjc3OSwiaXNzIjoiaHR2Yy5jb20udm4iLCJhdWQiOiJodHZjLmNvbS52biJ9.iJCmZpy3FfWcvRFqaOyc9ZvSFfJgCe78167HbfOSKQg
 #EXTINF:-1 tvg-id="htv7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV7HD.png", HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -699,6 +695,6 @@ https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT2.png", Đồng Tháp 2 - Miền Tây
 https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
-https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
 
