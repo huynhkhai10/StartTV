@@ -690,7 +690,7 @@ https://vips-livecdn.fptplay.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000
 #EXTINF:0 tvg-id="angiang3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/ATV3.png", An Giang 3
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="cantho1" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CANTHO1.png", Cần Thơ 1
-https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
+https://s7777.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv234&q=hd&deviceType=127&userId=33305459&deviceId=49413479&type=tv&p=0&zn=netott&rkey=33305459WPRDZZBJ&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.77.77&pkg=pkg13.hni&profiles=hd,sd,high&&bhd=7500000&bsd=5500000&bhi=3500000&location=VTL&rbk=17216246113&pnode=172.16.55.36&isp=all
 #EXTINF:0 tvg-id="cantho2" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CANTHO2.png", Cần Thơ 2
 https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="cantho3" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CANTHO3.png", Cần Thơ 3
