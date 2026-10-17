@@ -423,7 +423,8 @@ https://livebytatm.vtvprime.vn/live/data8/HTV3/Live_DASHDRM/HTV3.mpd
 #KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
 https://livebytatm.vtvprime.vn/live/data8/HTVKey/Live_DASHDRM/HTVKey.mpd
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV5HD.png", HTV5
-https://1011154949.vnns.net/CDN-FPT/HTV5-HD-ABR/HTV-ABR/HTV5-HD-1080p/chunks.m3u8?XSignKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiWC1EUk0iLCJqdGkiOiJmYTRlZTE1Yy1mOGUxLTQwYzUtYWE0ZS05NGZjYTI3Mjc3ZDgiLCJleHRyYURhdGEiOiJUaGlzIGlzIGFkZGl0aW9uYWwgZGF0YSB0byBpbmNyZWFzZSB0aGUgcGF5bG9hZCBzaXplLiIsImV4cCI6MTcyNDEzMjc3OSwiaXNzIjoiaHR2Yy5jb20udm4iLCJhdWQiOiJodHZjLmNvbS52biJ9.iJCmZpy3FfWcvRFqaOyc9ZvSFfJgCe78167HbfOSKQg
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="htv7" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV7HD.png", HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -431,7 +432,11 @@ https://1011154949.vnns.net/CDN-FPT/HTV5-HD-ABR/HTV-ABR/HTV5-HD-1080p/chunks.m3u
 #KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
 https://livebytatm.vtvprime.vn/live/data8/HTV7HD/Live_DASHDRM/HTV7HD.mpd
 #EXTINF:-1 tvg-id="htv9" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTV9HD.png", HTV9
-https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
+https://livebytatm.vtvprime.vn/live/data8/HTV9HD/Live_DASHDRM/HTV9HD.mpd
 
 
 #EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" group-title="HTVC" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTVTTHD.png",HTV Thể Thao HD
@@ -692,15 +697,15 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd
 
 
 #EXTINF:0 tvg-id="antvhd" group-title="Tin Tức Chính Trị" tvg-logo="https://i.imgur.com/kzKZm1L.png", ANTV FHD
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 #EXTINF:0 tvg-id="qpvnhd" group-title="Tin Tức Chính Trị" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", Quốc Phòng
-https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://qpvn.vn/live/qpvn/1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 HD
-https://vips-livecdn.fptplay.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792216736-MDU4Njk0MTI-0-800e34287fcfdf28854aa2594837d492
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2 HD
-https://vips-livecdn.fptplay.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://live-a.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792216854-MDU4Njk0MTI-0-4e15d5f83802ca41975feda362815567
 #EXTINF:-1 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/NATV.png",Nghệ An
 https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png",Lạng Sơn
@@ -776,9 +781,9 @@ https://live-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL3.png",Vĩnh Long 3 FHD
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8?sign=1792211477-MDU4Njk0MTI-0-c4ca4f7980cfa0b52f5c6f82120e240e
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL4.png",Vĩnh Long 4 FHD
-https://live.thvli.vn/thvl4/playlist.m3u8?app=141214&sig=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjIsInVpZCI6IjZhN2FiNGM3LWYwY2YtNGQ3ZC04Mzg0LTQwMGZlM2EwMzljNiIsImFwcCI6MTQxMjE0LCJkZXYiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJjaXAiOiIxNzEuMjQ2Ljc5LjEzMSIsInBsYSI6IndlYiIsImlhdCI6MTc5MjIxNDk4OX0.6D3sf4tZdFxndyrZ-YdZZgS-0P00bjyGju49pebNMmQ
+https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa Phương" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THVL5.png",Vĩnh Long 5 FHD
-https://live.thvli.vn/thvl5/playlist.m3u8?app=141214&sig=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjIsInVpZCI6ImMxYjAzNTg3LTI5MmItNDIxMy1hNTJmLTUzMmFmYjE2NTQwMCIsImFwcCI6MTQxMjE0LCJkZXYiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU1LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJjaXAiOiIxNzEuMjQ2Ljc5LjEzMSIsInBsYSI6IndlYiIsImlhdCI6MTc5MjIxNTA4MH0.ifYpcVXdcmnW8KFXt-J0np023DsP6Bb8v4gRy8GU9ZY
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:0 tvg-id="angiang1" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/ATV1.png", An Giang 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/
