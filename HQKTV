@@ -436,7 +436,7 @@ https://livebytatm.vtvprime.vn/live/data8/HTV7HD/Live_DASHDRM/HTV7HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
-https://livebytatm.vtvprime.vn/live/data8/HTV9HD/Live_DASHDRM/HTV9HD.mpd
+https://livebytatm.vtvprime.vn/live/data8/HTV9/Live_DASHDRM/HTV9.mpd
 
 
 #EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" group-title="HTVC" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoHtv/main/HTVTTHD.png",HTV Thể Thao HD
